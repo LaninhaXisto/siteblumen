@@ -53,8 +53,8 @@ body {
     padding: 24px 0;
 }
 
-.estudante-titulo{
-    font-size: 50px;
+.escola-titulo{
+    font-size: 105px;
 }
 
 .estudante{
@@ -68,18 +68,18 @@ body {
     width: 240px;
 }
 
-.buque-1{
-    width: 222px;
+.buque-6{
+    width: 200px;
     align-items: center;
 }
 
-.buque-2{
-    width: 199px;
+.buque-5{
+    width: 200px;
     align-items: center;
 }
 
-.buque-3{
-    width: 210px;
+.buque-7{
+    width: 200px;
     align-items: center;
 }
 
@@ -99,9 +99,10 @@ body {
 .estudante-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+}
+
+.estudante-titulo{
+    font-size: 40px;
 }
 
 .rodape{
@@ -110,6 +111,6 @@ body {
 }
 
 .imagem-rodape{
-    height: 150px;
-    padding: 08px 0;
+    width: 20%;
+    padding: 12px 0;
 }
